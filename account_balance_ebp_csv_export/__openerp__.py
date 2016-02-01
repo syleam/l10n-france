@@ -33,5 +33,5 @@
         'report/report.xml',
         'wizard/trial_balance_wizard_view.xml'
     ],
-    'installable': True,
+    'installable': False,
 }
